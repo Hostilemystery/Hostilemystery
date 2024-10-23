@@ -19,19 +19,37 @@ I'm currently focused on mastering **data engineering**, **cloud computing**, **
 ### 🔧 Skills:
 
 ### 💻 Programming Languages:
-**Python**, **R**, **Java**, **Scala**, **SQL**, **JavaScript**, **C**, **C++**, **PHP**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### 📊 Data Stack:
-- **Big Data**: Apache Spark, Hadoop, Hive  
-- **Databases**: MySQL, PostgreSQL, MongoDB  
-- **Data Analysis & Visualization**: Power BI, Tableau  
-- **Machine Learning**: scikit-learn, TensorFlow, PyTorch, Keras, Deep Learning, NLP, Web Scraping, LLMs  
+- **Big Data**: ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E6526F?style=for-the-badge&logo=Apache%20Spark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=Apache-Hadoop&logoColor=white) ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=Apache-Hive&logoColor=black)
+- **Databases**: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- **Data Analysis & Visualization**: ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+- **Machine Learning**: ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge) ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-orange?style=for-the-badge) ![LLMs](https://img.shields.io/badge/LLMs-gray?style=for-the-badge)
 
 ### ☁️ Cloud Platforms:
-**Google Cloud**, **Microsoft Azure**, **AWS**
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🔧 DevOps & Tools:
-**Docker**, **Kubernetes**, **Git**, **Trello**, **JIRA**, **Terraform**, **SCRUM**, **Google Analytics**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![JIRA](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![SCRUM](https://img.shields.io/badge/SCRUM-blue?style=for-the-badge)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+
 
 
 ### 💬 Let’s Connect!
