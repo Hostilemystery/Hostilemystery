@@ -18,20 +18,21 @@ I'm currently focused on mastering **data engineering**, **cloud computing**, **
 
 ### 🔧 Skills:
 
-#### **Programming Languages:**
-- **Python**, **R**, **Java**, **Scala**, **SQL**, **JavaScript**, **C**, **C++**, **PHP**
+### 💻 Programming Languages:
+**Python**, **R**, **Java**, **Scala**, **SQL**, **JavaScript**, **C**, **C++**, **PHP**
 
-#### **Data Stack:**
-- **Big Data**: Apache Spark, Hadoop, Hive
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Data Analysis & Visualization**: Power BI, Tableau
-- **Machine Learning**: scikit-learn, TensorFlow, PyTorch, Keras, Deep Learning, NLP, Web Scraping, LLMs
+### 📊 Data Stack:
+- **Big Data**: Apache Spark, Hadoop, Hive  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Data Analysis & Visualization**: Power BI, Tableau  
+- **Machine Learning**: scikit-learn, TensorFlow, PyTorch, Keras, Deep Learning, NLP, Web Scraping, LLMs  
 
-#### **Cloud Platforms:**
-- Google Cloud, Microsoft Azure, AWS
+### ☁️ Cloud Platforms:
+**Google Cloud**, **Microsoft Azure**, **AWS**
 
-#### **DevOps & Tools:**
-- Docker, Kubernetes, Git, Trello, JIRA, Terraform, SCRUM, Google Analytics
+### 🔧 DevOps & Tools:
+**Docker**, **Kubernetes**, **Git**, **Trello**, **JIRA**, **Terraform**, **SCRUM**, **Google Analytics**
+
 
 ### 💬 Let’s Connect!
 I'm always open to collaborating on exciting projects, discussing AI trends, or exploring data-driven innovations. Feel free to reach out:
